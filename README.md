@@ -1,1 +1,1 @@
-![](tipcal.gif.gif)
+![](tipcal.gif)
